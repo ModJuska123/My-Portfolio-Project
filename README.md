@@ -1,4 +1,4 @@
-# Modestas Juška - Portfolio
+# Portfolio
 
 🎨 **Website design project**
 
